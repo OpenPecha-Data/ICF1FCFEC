@@ -5,5 +5,20 @@ source_metadata:
   title: 'མཁས་གྲུབ་བླ་མ་དུ་མའི་གསུང་བྱིན་རླབས་ཅན་ཕྱོགས་གཅིག་ཏུ་བསྡུས་པ།
 
     '
-  volume: ''
+  volume:
+    0884103e2e774f91b7ad0fba183a2e06:
+      image_group_id: I3CN4572
+      title: Volume 1 of mkhas grub bla ma du ma'i gsung byin rlabs can phyogs gcig
+        tu bsdus pa/
+      volume_number: 1
+      total_pages: 260
   author: ''
+ebook_metadata:
+  title: 'མཁས་གྲུབ་བླ་མ་དུ་མའི་གསུང་བྱིན་རླབས་ཅན་ཕྱོགས་གཅིག་ཏུ་བསྡུས་པ།
+
+    '
+  author: ''
+  sku: P007023
+  cover: cover.jpg
+  layers:
+  - pagination
