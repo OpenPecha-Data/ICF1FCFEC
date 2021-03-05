@@ -1,18 +1,19 @@
-id: opecha:P007023
+id: P007023
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W3CN4343
   title: 'མཁས་གྲུབ་བླ་མ་དུ་མའི་གསུང་བྱིན་རླབས་ཅན་ཕྱོགས་གཅིག་ཏུ་བསྡུས་པ།
 
     '
-  volume:
+  author: ''
+  volumes:
     0884103e2e774f91b7ad0fba183a2e06:
       image_group_id: I3CN4572
       title: Volume 1 of mkhas grub bla ma du ma'i gsung byin rlabs can phyogs gcig
         tu bsdus pa/
       volume_number: 1
       total_pages: 260
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: 'མཁས་གྲུབ་བླ་མ་དུ་མའི་གསུང་བྱིན་རླབས་ཅན་ཕྱོགས་གཅིག་ཏུ་བསྡུས་པ།
 
